@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/SaidSuhail/leet-code/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/SaidSuhail/leet-code/tree/master/0326-power-of-three) |
+## Array
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SaidSuhail/leet-code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SaidSuhail/leet-code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
