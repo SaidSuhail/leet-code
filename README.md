@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SaidSuhail/leet-code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/SaidSuhail/leet-code/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/SaidSuhail/leet-code/tree/master/0414-third-maximum-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SaidSuhail/leet-code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/SaidSuhail/leet-code/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## Binary Search
@@ -53,4 +54,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/SaidSuhail/leet-code/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/SaidSuhail/leet-code/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
