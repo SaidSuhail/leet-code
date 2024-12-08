@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SaidSuhail/leet-code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0136-single-number](https://github.com/SaidSuhail/leet-code/tree/master/0136-single-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SaidSuhail/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/SaidSuhail/leet-code/tree/master/0414-third-maximum-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SaidSuhail/leet-code/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/SaidSuhail/leet-code/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/SaidSuhail/leet-code/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
