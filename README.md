@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/SaidSuhail/leet-code/tree/master/1019-squares-of-a-sorted-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SaidSuhail/leet-code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1848-sum-of-unique-elements](https://github.com/SaidSuhail/leet-code/tree/master/1848-sum-of-unique-elements) |
+| [2058-concatenation-of-array](https://github.com/SaidSuhail/leet-code/tree/master/2058-concatenation-of-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/SaidSuhail/leet-code/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2881-split-strings-by-separator](https://github.com/SaidSuhail/leet-code/tree/master/2881-split-strings-by-separator) |
 ## Binary Search
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1848-sum-of-unique-elements](https://github.com/SaidSuhail/leet-code/tree/master/1848-sum-of-unique-elements) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/SaidSuhail/leet-code/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
