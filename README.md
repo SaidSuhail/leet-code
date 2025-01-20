@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/SaidSuhail/leet-code/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/SaidSuhail/leet-code/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/SaidSuhail/leet-code/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/SaidSuhail/leet-code/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/SaidSuhail/leet-code/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/SaidSuhail/leet-code/tree/master/0326-power-of-three) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SaidSuhail/leet-code/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -87,5 +88,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/SaidSuhail/leet-code/tree/master/0258-add-digits) |
 | [2058-concatenation-of-array](https://github.com/SaidSuhail/leet-code/tree/master/2058-concatenation-of-array) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/SaidSuhail/leet-code/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
