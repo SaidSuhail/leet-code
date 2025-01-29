@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/SaidSuhail/leet-code/tree/master/0414-third-maximum-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/SaidSuhail/leet-code/tree/master/1019-squares-of-a-sorted-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SaidSuhail/leet-code/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SaidSuhail/leet-code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1848-sum-of-unique-elements](https://github.com/SaidSuhail/leet-code/tree/master/1848-sum-of-unique-elements) |
 | [2058-concatenation-of-array](https://github.com/SaidSuhail/leet-code/tree/master/2058-concatenation-of-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/SaidSuhail/leet-code/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/SaidSuhail/leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/SaidSuhail/leet-code/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/SaidSuhail/leet-code/tree/master/0742-to-lower-case) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SaidSuhail/leet-code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2881-split-strings-by-separator](https://github.com/SaidSuhail/leet-code/tree/master/2881-split-strings-by-separator) |
 ## Bit Manipulation
 |  |
