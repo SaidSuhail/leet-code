@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/SaidSuhail/leet-code/tree/master/1848-sum-of-unique-elements) |
 | [2058-concatenation-of-array](https://github.com/SaidSuhail/leet-code/tree/master/2058-concatenation-of-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/SaidSuhail/leet-code/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2639-separate-the-digits-in-an-array](https://github.com/SaidSuhail/leet-code/tree/master/2639-separate-the-digits-in-an-array) |
 | [2881-split-strings-by-separator](https://github.com/SaidSuhail/leet-code/tree/master/2881-split-strings-by-separator) |
 ## Binary Search
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/SaidSuhail/leet-code/tree/master/0258-add-digits) |
 | [2058-concatenation-of-array](https://github.com/SaidSuhail/leet-code/tree/master/2058-concatenation-of-array) |
+| [2639-separate-the-digits-in-an-array](https://github.com/SaidSuhail/leet-code/tree/master/2639-separate-the-digits-in-an-array) |
 ## Number Theory
 |  |
 | ------- |
