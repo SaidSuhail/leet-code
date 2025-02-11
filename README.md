@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SaidSuhail/leet-code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/SaidSuhail/leet-code/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/SaidSuhail/leet-code/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/SaidSuhail/leet-code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SaidSuhail/leet-code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SaidSuhail/leet-code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SaidSuhail/leet-code/tree/master/0349-intersection-of-two-arrays) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SaidSuhail/leet-code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SaidSuhail/leet-code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SaidSuhail/leet-code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SaidSuhail/leet-code/tree/master/0349-intersection-of-two-arrays) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SaidSuhail/leet-code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SaidSuhail/leet-code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SaidSuhail/leet-code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SaidSuhail/leet-code/tree/master/0349-intersection-of-two-arrays) |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SaidSuhail/leet-code/tree/master/0169-majority-element) |
 | [1848-sum-of-unique-elements](https://github.com/SaidSuhail/leet-code/tree/master/1848-sum-of-unique-elements) |
 ## Simulation
 |  |
@@ -108,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/SaidSuhail/leet-code/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/SaidSuhail/leet-code/tree/master/2491-smallest-even-multiple) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SaidSuhail/leet-code/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
