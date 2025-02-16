@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SaidSuhail/leet-code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SaidSuhail/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/SaidSuhail/leet-code/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/SaidSuhail/leet-code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SaidSuhail/leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/SaidSuhail/leet-code/tree/master/1019-squares-of-a-sorted-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SaidSuhail/leet-code/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SaidSuhail/leet-code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SaidSuhail/leet-code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SaidSuhail/leet-code/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/SaidSuhail/leet-code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SaidSuhail/leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/SaidSuhail/leet-code/tree/master/1848-sum-of-unique-elements) |
 ## Sorting
