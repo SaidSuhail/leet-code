@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/SaidSuhail/leet-code/tree/master/0742-to-lower-case) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SaidSuhail/leet-code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1904-second-largest-digit-in-a-string](https://github.com/SaidSuhail/leet-code/tree/master/1904-second-largest-digit-in-a-string) |
+| [1970-sorting-the-sentence](https://github.com/SaidSuhail/leet-code/tree/master/1970-sorting-the-sentence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/SaidSuhail/leet-code/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2881-split-strings-by-separator](https://github.com/SaidSuhail/leet-code/tree/master/2881-split-strings-by-separator) |
 ## Bit Manipulation
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/SaidSuhail/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/SaidSuhail/leet-code/tree/master/0414-third-maximum-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/SaidSuhail/leet-code/tree/master/1019-squares-of-a-sorted-array) |
+| [1970-sorting-the-sentence](https://github.com/SaidSuhail/leet-code/tree/master/1970-sorting-the-sentence) |
 ## Counting
 |  |
 | ------- |
