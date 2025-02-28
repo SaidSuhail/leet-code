@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1904-second-largest-digit-in-a-string](https://github.com/SaidSuhail/leet-code/tree/master/1904-second-largest-digit-in-a-string) |
 | [1970-sorting-the-sentence](https://github.com/SaidSuhail/leet-code/tree/master/1970-sorting-the-sentence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/SaidSuhail/leet-code/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2235-capitalize-the-title](https://github.com/SaidSuhail/leet-code/tree/master/2235-capitalize-the-title) |
 | [2881-split-strings-by-separator](https://github.com/SaidSuhail/leet-code/tree/master/2881-split-strings-by-separator) |
 ## Bit Manipulation
 |  |
