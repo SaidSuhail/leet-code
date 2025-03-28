@@ -140,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SaidSuhail/leet-code/tree/master/0169-majority-element) |
+## Database
+|  |
+| ------- |
+| [0596-classes-more-than-5-students](https://github.com/SaidSuhail/leet-code/tree/master/0596-classes-more-than-5-students) |
 <!---LeetCode Topics End-->
