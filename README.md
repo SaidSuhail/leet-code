@@ -148,4 +148,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/SaidSuhail/leet-code/tree/master/0595-big-countries) |
 | [0596-classes-more-than-5-students](https://github.com/SaidSuhail/leet-code/tree/master/0596-classes-more-than-5-students) |
 | [1827-invalid-tweets](https://github.com/SaidSuhail/leet-code/tree/master/1827-invalid-tweets) |
+| [1908-recyclable-and-low-fat-products](https://github.com/SaidSuhail/leet-code/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
