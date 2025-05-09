@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SaidSuhail/leet-code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/SaidSuhail/leet-code/tree/master/1635-number-of-good-pairs) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SaidSuhail/leet-code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1791-richest-customer-wealth](https://github.com/SaidSuhail/leet-code/tree/master/1791-richest-customer-wealth) |
 | [1848-sum-of-unique-elements](https://github.com/SaidSuhail/leet-code/tree/master/1848-sum-of-unique-elements) |
 | [1944-truncate-sentence](https://github.com/SaidSuhail/leet-code/tree/master/1944-truncate-sentence) |
 | [2058-concatenation-of-array](https://github.com/SaidSuhail/leet-code/tree/master/2058-concatenation-of-array) |
@@ -169,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-find-followers-count](https://github.com/SaidSuhail/leet-code/tree/master/1877-find-followers-count) |
 | [1908-recyclable-and-low-fat-products](https://github.com/SaidSuhail/leet-code/tree/master/1908-recyclable-and-low-fat-products) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/SaidSuhail/leet-code/tree/master/2127-employees-whose-manager-left-the-company) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/SaidSuhail/leet-code/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
