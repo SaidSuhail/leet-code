@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SaidSuhail/leet-code/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/SaidSuhail/leet-code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SaidSuhail/leet-code/tree/master/0342-power-of-four) |
+| [0415-add-strings](https://github.com/SaidSuhail/leet-code/tree/master/0415-add-strings) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SaidSuhail/leet-code/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SaidSuhail/leet-code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/SaidSuhail/leet-code/tree/master/1635-number-of-good-pairs) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/SaidSuhail/leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/SaidSuhail/leet-code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SaidSuhail/leet-code/tree/master/0344-reverse-string) |
+| [0415-add-strings](https://github.com/SaidSuhail/leet-code/tree/master/0415-add-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SaidSuhail/leet-code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/SaidSuhail/leet-code/tree/master/0742-to-lower-case) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SaidSuhail/leet-code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SaidSuhail/leet-code/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/SaidSuhail/leet-code/tree/master/0415-add-strings) |
 | [2058-concatenation-of-array](https://github.com/SaidSuhail/leet-code/tree/master/2058-concatenation-of-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/SaidSuhail/leet-code/tree/master/2639-separate-the-digits-in-an-array) |
 ## Number Theory
