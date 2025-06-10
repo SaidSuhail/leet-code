@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-more-than-5-students](https://github.com/SaidSuhail/leet-code/tree/master/0596-classes-more-than-5-students) |
 | [0620-not-boring-movies](https://github.com/SaidSuhail/leet-code/tree/master/0620-not-boring-movies) |
 | [0627-swap-salary](https://github.com/SaidSuhail/leet-code/tree/master/0627-swap-salary) |
+| [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/SaidSuhail/leet-code/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1153-product-sales-analysis-i](https://github.com/SaidSuhail/leet-code/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/SaidSuhail/leet-code/tree/master/1258-article-views-i) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/SaidSuhail/leet-code/tree/master/1462-list-the-products-ordered-in-a-period) |
