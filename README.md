@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1670-patients-with-a-condition](https://github.com/SaidSuhail/leet-code/tree/master/1670-patients-with-a-condition) |
 | [1734-bank-account-summary-ii](https://github.com/SaidSuhail/leet-code/tree/master/1734-bank-account-summary-ii) |
 | [1827-invalid-tweets](https://github.com/SaidSuhail/leet-code/tree/master/1827-invalid-tweets) |
+| [1837-daily-leads-and-partners](https://github.com/SaidSuhail/leet-code/tree/master/1837-daily-leads-and-partners) |
 | [1877-find-followers-count](https://github.com/SaidSuhail/leet-code/tree/master/1877-find-followers-count) |
 | [1908-recyclable-and-low-fat-products](https://github.com/SaidSuhail/leet-code/tree/master/1908-recyclable-and-low-fat-products) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/SaidSuhail/leet-code/tree/master/2127-employees-whose-manager-left-the-company) |
