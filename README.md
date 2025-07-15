@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-capitalize-the-title](https://github.com/SaidSuhail/leet-code/tree/master/2235-capitalize-the-title) |
 | [2502-sort-the-people](https://github.com/SaidSuhail/leet-code/tree/master/2502-sort-the-people) |
 | [2881-split-strings-by-separator](https://github.com/SaidSuhail/leet-code/tree/master/2881-split-strings-by-separator) |
+| [3396-valid-word](https://github.com/SaidSuhail/leet-code/tree/master/3396-valid-word) |
 ## Bit Manipulation
 |  |
 | ------- |
