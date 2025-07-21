@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/SaidSuhail/leet-code/tree/master/0415-add-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SaidSuhail/leet-code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/SaidSuhail/leet-code/tree/master/0742-to-lower-case) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/SaidSuhail/leet-code/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SaidSuhail/leet-code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1904-second-largest-digit-in-a-string](https://github.com/SaidSuhail/leet-code/tree/master/1904-second-largest-digit-in-a-string) |
 | [1944-truncate-sentence](https://github.com/SaidSuhail/leet-code/tree/master/1944-truncate-sentence) |
