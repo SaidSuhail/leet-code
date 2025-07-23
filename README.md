@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/SaidSuhail/leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/SaidSuhail/leet-code/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/SaidSuhail/leet-code/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/SaidSuhail/leet-code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/SaidSuhail/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SaidSuhail/leet-code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/SaidSuhail/leet-code/tree/master/1019-squares-of-a-sorted-array) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/SaidSuhail/leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/SaidSuhail/leet-code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SaidSuhail/leet-code/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/SaidSuhail/leet-code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/SaidSuhail/leet-code/tree/master/0415-add-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SaidSuhail/leet-code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/SaidSuhail/leet-code/tree/master/0742-to-lower-case) |
