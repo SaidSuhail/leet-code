@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-invalid-tweets](https://github.com/SaidSuhail/leet-code/tree/master/1827-invalid-tweets) |
 | [1837-daily-leads-and-partners](https://github.com/SaidSuhail/leet-code/tree/master/1837-daily-leads-and-partners) |
 | [1877-find-followers-count](https://github.com/SaidSuhail/leet-code/tree/master/1877-find-followers-count) |
+| [1892-find-total-time-spent-by-each-employee](https://github.com/SaidSuhail/leet-code/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/SaidSuhail/leet-code/tree/master/1908-recyclable-and-low-fat-products) |
 | [2041-the-latest-login-in-2020](https://github.com/SaidSuhail/leet-code/tree/master/2041-the-latest-login-in-2020) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/SaidSuhail/leet-code/tree/master/2127-employees-whose-manager-left-the-company) |
