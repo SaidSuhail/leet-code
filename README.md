@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/SaidSuhail/leet-code/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/SaidSuhail/leet-code/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/SaidSuhail/leet-code/tree/master/0415-add-strings) |
+| [1013-fibonacci-number](https://github.com/SaidSuhail/leet-code/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SaidSuhail/leet-code/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SaidSuhail/leet-code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/SaidSuhail/leet-code/tree/master/1635-number-of-good-pairs) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/SaidSuhail/leet-code/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/SaidSuhail/leet-code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SaidSuhail/leet-code/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/SaidSuhail/leet-code/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -264,8 +266,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SaidSuhail/leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/SaidSuhail/leet-code/tree/master/1013-fibonacci-number) |
 ## Linked List
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SaidSuhail/leet-code/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/SaidSuhail/leet-code/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
