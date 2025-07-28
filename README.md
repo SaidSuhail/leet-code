@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SaidSuhail/leet-code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SaidSuhail/leet-code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SaidSuhail/leet-code/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/SaidSuhail/leet-code/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/SaidSuhail/leet-code/tree/master/0415-add-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SaidSuhail/leet-code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/SaidSuhail/leet-code/tree/master/0742-to-lower-case) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/SaidSuhail/leet-code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SaidSuhail/leet-code/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/SaidSuhail/leet-code/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/SaidSuhail/leet-code/tree/master/0389-find-the-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SaidSuhail/leet-code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SaidSuhail/leet-code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SaidSuhail/leet-code/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/SaidSuhail/leet-code/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SaidSuhail/leet-code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SaidSuhail/leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SaidSuhail/leet-code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SaidSuhail/leet-code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SaidSuhail/leet-code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SaidSuhail/leet-code/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/SaidSuhail/leet-code/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/SaidSuhail/leet-code/tree/master/0414-third-maximum-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/SaidSuhail/leet-code/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SaidSuhail/leet-code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
