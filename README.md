@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SaidSuhail/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/SaidSuhail/leet-code/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaidSuhail/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/SaidSuhail/leet-code/tree/master/0043-multiply-strings) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SaidSuhail/leet-code/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SaidSuhail/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/SaidSuhail/leet-code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SaidSuhail/leet-code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SaidSuhail/leet-code/tree/master/0219-contains-duplicate-ii) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SaidSuhail/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/SaidSuhail/leet-code/tree/master/0219-contains-duplicate-ii) |
 ## Counting Sort
 |  |
