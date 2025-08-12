@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/SaidSuhail/leet-code/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/SaidSuhail/leet-code/tree/master/1635-number-of-good-pairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SaidSuhail/leet-code/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2037-count-square-sum-triples](https://github.com/SaidSuhail/leet-code/tree/master/2037-count-square-sum-triples) |
 | [2083-three-divisors](https://github.com/SaidSuhail/leet-code/tree/master/2083-three-divisors) |
 | [2383-add-two-integers](https://github.com/SaidSuhail/leet-code/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/SaidSuhail/leet-code/tree/master/2491-smallest-even-multiple) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2037-count-square-sum-triples](https://github.com/SaidSuhail/leet-code/tree/master/2037-count-square-sum-triples) |
 | [2083-three-divisors](https://github.com/SaidSuhail/leet-code/tree/master/2083-three-divisors) |
 ## Greedy
 |  |
