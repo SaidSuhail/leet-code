@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/SaidSuhail/leet-code/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/SaidSuhail/leet-code/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/SaidSuhail/leet-code/tree/master/1013-fibonacci-number) |
+| [1274-number-of-days-between-two-dates](https://github.com/SaidSuhail/leet-code/tree/master/1274-number-of-days-between-two-dates) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SaidSuhail/leet-code/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SaidSuhail/leet-code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/SaidSuhail/leet-code/tree/master/1448-maximum-69-number) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/SaidSuhail/leet-code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/SaidSuhail/leet-code/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/SaidSuhail/leet-code/tree/master/0812-rotate-string) |
+| [1274-number-of-days-between-two-dates](https://github.com/SaidSuhail/leet-code/tree/master/1274-number-of-days-between-two-dates) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/SaidSuhail/leet-code/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SaidSuhail/leet-code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1904-second-largest-digit-in-a-string](https://github.com/SaidSuhail/leet-code/tree/master/1904-second-largest-digit-in-a-string) |
