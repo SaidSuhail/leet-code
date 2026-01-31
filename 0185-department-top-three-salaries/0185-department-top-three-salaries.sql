@@ -1,0 +1,2 @@
+/* Write your T-SQL query statement below */
+select D.name as Department,A.name as Employee,A.salary as Salary from Employee A  join Department D on A.departmentId = D.Id where 3>(select count(distinct salary) from Employee where departmentId = A.departmentId and salary>A.salary);
