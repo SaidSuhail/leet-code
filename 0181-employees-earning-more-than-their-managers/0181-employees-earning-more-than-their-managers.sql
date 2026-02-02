@@ -1,4 +1,2 @@
-# Write your MySQL query statement below
-
-SELECT  e.name AS Employee  FROM Employee e INNER JOIN Employee m  ON  e.managerId = m.id WHERE 
- e.salary > m.salary;
+/* Write your T-SQL query statement below */
+SELECT e.name as Employee from Employee e join Employee m on m.id = e.managerId where e.salary>m.salary
