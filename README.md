@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/SaidSuhail/leet-code/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/SaidSuhail/leet-code/tree/master/1013-fibonacci-number) |
 | [1274-number-of-days-between-two-dates](https://github.com/SaidSuhail/leet-code/tree/master/1274-number-of-days-between-two-dates) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SaidSuhail/leet-code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SaidSuhail/leet-code/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SaidSuhail/leet-code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/SaidSuhail/leet-code/tree/master/1448-maximum-69-number) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/SaidSuhail/leet-code/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/SaidSuhail/leet-code/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/SaidSuhail/leet-code/tree/master/0389-find-the-difference) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SaidSuhail/leet-code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Hash Table
 |  |
 | ------- |
