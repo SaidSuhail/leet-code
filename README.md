@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/SaidSuhail/leet-code/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/SaidSuhail/leet-code/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/SaidSuhail/leet-code/tree/master/0728-self-dividing-numbers) |
+| [0877-stone-game](https://github.com/SaidSuhail/leet-code/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/SaidSuhail/leet-code/tree/master/1013-fibonacci-number) |
 | [1274-number-of-days-between-two-dates](https://github.com/SaidSuhail/leet-code/tree/master/1274-number-of-days-between-two-dates) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SaidSuhail/leet-code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/SaidSuhail/leet-code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SaidSuhail/leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SaidSuhail/leet-code/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0877-stone-game](https://github.com/SaidSuhail/leet-code/tree/master/0877-stone-game) |
 | [0948-sort-an-array](https://github.com/SaidSuhail/leet-code/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/SaidSuhail/leet-code/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/SaidSuhail/leet-code/tree/master/1168-duplicate-zeros) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SaidSuhail/leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/SaidSuhail/leet-code/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/SaidSuhail/leet-code/tree/master/1013-fibonacci-number) |
 ## Linked List
 |  |
@@ -342,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/SaidSuhail/leet-code/tree/master/1448-maximum-69-number) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/SaidSuhail/leet-code/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
